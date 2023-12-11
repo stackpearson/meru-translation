@@ -137,8 +137,8 @@ class cfgWeapons
 	class mwp1_shotgun_4: mwp1_shotgun_4_Base
 	{
 		scope = 2;
-		displayName = "Дробовик MWP1-4";
-		descriptionShort = "Автоматический дробовик MWP1-3.//By Meru";
+		displayName = "MWP1-4 Shotgun";
+		descriptionShort = "Automatic shotgun MWP1-4 series. Accepts detachable mags. //By Meru";
 		model = "modern_weapon_pack_1_V2\shotgun4\mwp1shotgun4.p3d";
 		attachments[] = {"weaponFlashlight","weaponOptics"};
 		itemSize[] = {8,3};

@@ -176,8 +176,8 @@ class cfgWeapons
 	class MWP1_minigun_2: mwp1_minigun_2_Base
 	{
 		scope = 2;
-		displayName = "MWP1 Миниган";
-		descriptionShort = "Четырехствольный пистолет пулемет Миниган MWP1-2.// By Meru";
+		displayName = "MWP1-2 Minigun";
+		descriptionShort = "Four-barreled pistol submachine gun Minigun MWP1-2.// By Meru";
 		model = "modern_weapon_pack_1_V2\minigun2\mwp1_minigun2.p3d";
 		itemSize[] = {10,3};
 	};

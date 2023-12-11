@@ -80,8 +80,8 @@ class cfgWeapons
 	class mwp1_pistol_3: mwp1_pistol_3_Base
 	{
 		scope = 2;
-		displayName = "Пистолет MWP-3";
-		descriptionShort = "Модернизированный пистолет MWP1 Третьей серии.// By Meru";
+		displayName = "MWP1-3 Pistol";
+		descriptionShort = "Upgraded MWP1 pistol of the Third Series.// By Meru";
 		model = "modern_weapon_pack_1_V2\pistol3\mwp1pistol3.p3d";
 		attachments[] = {"weaponFlashlight","weaponOptics","weaponMuzzleAK"};
 		itemSize[] = {3,2};

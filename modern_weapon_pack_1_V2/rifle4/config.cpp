@@ -178,8 +178,8 @@ class cfgWeapons
 	class mwp1_rifle_4: mwp1_rifle_4_Base
 	{
 		scope = 2;
-		displayName = "Автомат MWP1-4";
-		descriptionShort = "Модернизированный автомат четвертой серии MWP1.//By Meru";
+		displayName = "MWP1-4 Rifle";
+		descriptionShort = "Upgraded automatic machine of the fourth series MWP1.//By Meru";
 		model = "modern_weapon_pack_1_V2\rifle4\mwp1rifle4.p3d";
 		attachments[] = {"weaponFlashlight","weaponOptics"};
 		itemSize[] = {8,3};

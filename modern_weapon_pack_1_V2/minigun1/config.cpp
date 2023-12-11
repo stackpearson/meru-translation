@@ -176,8 +176,8 @@ class cfgWeapons
 	class MWP1_minigun_1: mwp1_minigun_1_Base
 	{
 		scope = 2;
-		displayName = "MWP1 Миниган";
-		descriptionShort = "Трех ствольный пистолет пулемет Миниган MWP1-1.// By Meru";
+		displayName = "MWP1 SMG";
+		descriptionShort = "Three-barreled pistol submachine gun Minigun MWP1-1.// By Meru";
 		model = "modern_weapon_pack_1_V2\minigun1\mwp1_minigun1.p3d";
 		itemSize[] = {10,3};
 	};

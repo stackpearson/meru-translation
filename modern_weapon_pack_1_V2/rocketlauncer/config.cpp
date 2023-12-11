@@ -87,8 +87,8 @@ class cfgWeapons
 	class mwp1_grenadelauncher: mwp1_grenadelauncher_Base
 	{
 		scope = 2;
-		displayName = "Ракетомет MWP1";
-		descriptionShort = "Медернизированный ракетомет MWP1 стреляет разрывными янарядами.// By Meru";
+		displayName = "MWP1 Rocket Launcher";
+		descriptionShort = "The upgraded MWP1 rocket launcher fires explosive projectiles.// By Meru";
 		model = "modern_weapon_pack_1_V2\rocketlauncer\mwp1grenadelauncher1.p3d";
 		attachments[] = {"weaponOptics"};
 		itemSize[] = {8,3};

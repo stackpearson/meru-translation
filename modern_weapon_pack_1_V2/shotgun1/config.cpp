@@ -140,8 +140,8 @@ class cfgWeapons
 	class mwp1_shotgun_1: mwp1_shotgun_1_Base
 	{
 		scope = 2;
-		displayName = "Дробовик MWP1-1";
-		descriptionShort = "Полуавтоматический дробовик MWP1 первой серии.// By Meru.";
+		displayName = "MWP1 Shotgun";
+		descriptionShort = "Semi-automatic shotgun MWP1 of the first series. 10rnd capacity. // By Meru.";
 		model = "modern_weapon_pack_1_V2\shotgun1\mwp1shotgun1.p3d";
 		animName = "ShotgunMp133";
 		attachments[] = {"weaponFlashlight","weaponOptics"};

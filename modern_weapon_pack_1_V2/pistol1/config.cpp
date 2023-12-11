@@ -97,8 +97,8 @@ class cfgWeapons
 	class mwp1_pistol_1: mwp1_pistol_1_Base
 	{
 		scope = 2;
-		displayName = "Пистолет MWP-1";
-		descriptionShort = "Модернизированный пистолет MWP1 Первой серии.// By Meru";
+		displayName = "MWP1 Pistol";
+		descriptionShort = "Upgraded MWP1 pistol of the First series.// By Meru";
 		model = "modern_weapon_pack_1_V2\pistol1\mwp1pistol1.p3d";
 		attachments[] = {"weaponFlashlight","weaponOptics","weaponMuzzleAK"};
 		itemSize[] = {3,2};

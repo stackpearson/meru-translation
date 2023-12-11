@@ -80,8 +80,8 @@ class cfgWeapons
 	class MWP1_rocketlauncher_2: mwp1_rocketlauncher_2_Base
 	{
 		scope = 2;
-		displayName = "MWP1 Ракетная установка";
-		descriptionShort = "Ракетная установка MWP1 второй серии. Стреляет разрывнями ракетами.// By Meru";
+		displayName = "MWP1-2 Rocket Launcher";
+		descriptionShort = "MWP1 rocket launcher of the second series. Shoots exploding rockets.// By Meru";
 		model = "modern_weapon_pack_1_V2\rocketlauncher2\mwp1_rocketlauncher2.p3d";
 		itemSize[] = {7,3};
 		class DamageSystem
