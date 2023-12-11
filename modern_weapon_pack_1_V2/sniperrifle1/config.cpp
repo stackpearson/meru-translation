@@ -87,8 +87,8 @@ class cfgWeapons
 	class mwp1_sniperrifle_1: mwp1_sniperrifle_1_Base
 	{
 		scope = 2;
-		displayName = "СВ MWP1-1";
-		descriptionShort = "Болторная снайперская винтовка MWP1-1 первой серии.// By Meru";
+		displayName = "MWP1-1 Sniper Rifle";
+		descriptionShort = "Bolt sniper rifle MWP1-1 of the first series.// By Meru";
 		model = "modern_weapon_pack_1_V2\sniperrifle1\mwp1sniperrifle1.p3d";
 		attachments[] = {"weaponFlashlight","weaponOptics","weaponMuzzleAK"};
 		itemSize[] = {10,3};

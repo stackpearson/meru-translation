@@ -151,8 +151,8 @@ class CfgWeapons
 	class mwp1_smg_4: mwp1_smg_4_Base
 	{
 		scope = 2;
-		displayName = "Пистолет Пулемет MWP1";
-		descriptionShort = "Модернизированный пистолет пулемет четвертой серии MWP1-4.// By Meru";
+		displayName = "MWP1-4 SMG";
+		descriptionShort = "Upgraded submachine gun of the fourth series MWP1-4.// By Meru";
 		model = "modern_weapon_pack_1_V2\smg4\mwp1_smg_4.p3d";
 		attachments[] = {"weaponFlashlight","weaponOptics","weaponMuzzleAK"};
 		itemSize[] = {5,3};

@@ -361,8 +361,8 @@ class cfgWeapons
 	class mwp1_sniperrifle_4: mwp1_sniperrifle_4_Base
 	{
 		scope = 2;
-		displayName = "СВ MWP1-4";
-		descriptionShort = "Полуавтоматическая снайперская винтовка четвертой серии MWP1-4.// By Meru ";
+		displayName = "MWP1-4 Sniper Rifle";
+		descriptionShort = "Semi-automatic sniper rifle of the fourth series MWP1-4.// By Meru ";
 		model = "modern_weapon_pack_1_V2\sniperrifle4\mwp1sniperrfile4.p3d";
 		attachments[] = {"weaponFlashlight","weaponOptics","weaponMuzzleAK"};
 		itemSize[] = {10,3};

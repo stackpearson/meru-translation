@@ -181,8 +181,8 @@ class cfgWeapons
 	class mwp1_smg_1: mwp1_smg_1_Base
 	{
 		scope = 2;
-		displayName = "Пистолет Пулемет MWP1";
-		descriptionShort = "Пистолет пулемет первой серии MWP1-1.// By Meru";
+		displayName = "MWP1 SMG";
+		descriptionShort = "Submachine gun of the first series MWP1-1.// By Meru";
 		model = "modern_weapon_pack_1_V2\smg1\mwp1smg1.p3d";
 		attachments[] = {"weaponFlashlight","weaponOptics","weaponMuzzleAK"};
 		itemSize[] = {5,3};

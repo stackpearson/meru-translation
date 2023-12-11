@@ -361,7 +361,7 @@ class cfgWeapons
 	class mwp1_sniperrifle_2: mwp1_sniperrifle_2_Base
 	{
 		scope = 2;
-		displayName = "СВ MWP1-2";
+		displayName = "MWP1-2 Sniper Rifle";
 		descriptionShort = "Полуавтоматическая снайперская винтовка второй серии MWP1-2.// By Meru ";
 		model = "modern_weapon_pack_1_V2\sniperrifle2\mwp1sniperrifle2.p3d";
 		attachments[] = {"weaponFlashlight","weaponOptics","weaponMuzzleAK"};

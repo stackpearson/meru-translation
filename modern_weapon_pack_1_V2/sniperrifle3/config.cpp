@@ -361,8 +361,8 @@ class cfgWeapons
 	class mwp1_sniperrifle_3: mwp1_sniperrifle_3_Base
 	{
 		scope = 2;
-		displayName = "СВ MWP1-3";
-		descriptionShort = "Полуавтоматическая снайперская винтовка третьей серии MWP1-3.// By Meru ";
+		displayName = "MWP1-3 Sniper Rifle";
+		descriptionShort = "Semi-automatic sniper rifle of the third series MWP1-3.// By Meru ";
 		model = "modern_weapon_pack_1_V2\sniperrifle3\mwp1sniperrifle3.p3d";
 		attachments[] = {"weaponFlashlight","weaponOptics"};
 		itemSize[] = {10,3};
