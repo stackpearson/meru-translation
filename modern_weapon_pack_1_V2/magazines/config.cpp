@@ -23,8 +23,8 @@ class CfgMagazines
 	class mwp1_rifle1_magazine: Magazine_Base
 	{
 		scope = 2;
-		displayName = "MWP1 Магазин";
-		descriptionShort = "Магазин для штурмовой винтовки MWP1 первой серии. вмещает 120 патронов калибра ххх .//By Meru";
+		displayName = "MWP1 Rifle Mag - 120";
+		descriptionShort = "Magazine for the MWP1 assault rifle of the first series. holds 120 rounds of xxx caliber .//By Meru";
 		model = "modern_weapon_pack_1_V2\magazines\mwp1rifle1magaz.p3d";
 		weight = 200;
 		itemSize[] = {1,3};
@@ -114,8 +114,8 @@ class CfgMagazines
 	class mwp1_rifle2_magazine: Magazine_Base
 	{
 		scope = 2;
-		displayName = "MWP1 Магазин";
-		descriptionShort = "Магазин для штурмовой винтовки MWP1 второй серии. вмещает 120 патронов калибра ххх.//By Meru";
+		displayName = "MWP1-2 Rifle Mag - 120";
+		descriptionShort = "Magazine for the MWP1 assault rifle of the second series. holds 120 rounds of xxx caliber.//By Meru";
 		model = "modern_weapon_pack_1_V2\magazines\mwp1rifle2magaz.p3d";
 		weight = 200;
 		itemSize[] = {1,3};
@@ -205,8 +205,8 @@ class CfgMagazines
 	class mwp1_rifle3_magazine: Magazine_Base
 	{
 		scope = 2;
-		displayName = "MWP1 Магазин";
-		descriptionShort = "Магазин для штурмовой винтовки MWP1 третьей серии. вмещает 120 патронов калибра ххх.//By Meru";
+		displayName = "MWP1-3 Rifle Мag - 120";
+		descriptionShort = "Magazine for the MWP1 assault rifle of the third series. holds 120 rounds of xxx caliber.//By Meru";
 		model = "modern_weapon_pack_1_V2\magazines\mwp1rifle3magaz.p3d";
 		weight = 200;
 		itemSize[] = {1,3};
@@ -296,8 +296,8 @@ class CfgMagazines
 	class mwp1_mashinegun1_magazine: Magazine_Base
 	{
 		scope = 2;
-		displayName = "MWP1 Магазин";
-		descriptionShort = "Магазин для пулемета MWP1 первой серии. вмещает 800 патронов калибра ххх.//By Meru";
+		displayName = "MWP1 Machinegun Маg - 800";
+		descriptionShort = "Magazine for the MWP1 machine gun of the first series. holds 800 rounds of xxx caliber.//By Meru";
 		model = "modern_weapon_pack_1_V2\magazines\mwp1mashinegun1magaz.p3d";
 		weight = 200;
 		itemSize[] = {2,2};
@@ -387,8 +387,8 @@ class CfgMagazines
 	class mwp1_mashinegun2_magazine: Magazine_Base
 	{
 		scope = 2;
-		displayName = "MWP1 Магазин";
-		descriptionShort = "Магазин для пулемета MWP1 второй серии. вмещает 800 патронов калибра ххх.//By Meru";
+		displayName = "MWP1-2 Machinegun Mag - 800";
+		descriptionShort = "Magazine for the MWP1 machine gun of the second series. holds 800 rounds of xxx caliber.//By Meru";
 		model = "modern_weapon_pack_1_V2\magazines\mwp1mashinegun2magaz.p3d";
 		weight = 200;
 		itemSize[] = {2,2};
@@ -478,8 +478,8 @@ class CfgMagazines
 	class mwp1_pistol1_magazine: Magazine_Base
 	{
 		scope = 2;
-		displayName = "MWP1 Магазин";
-		descriptionShort = "Магазин для пистолета MWP1 первой серии. вмещает 50 патронов калибра ххх.//By Meru";
+		displayName = "MWP1 Pistol Mag - 50";
+		descriptionShort = "Magazine for the MWP1 pistol of the first series. holds 50 rounds of xxx caliber.//By Meru";
 		model = "modern_weapon_pack_1_V2\magazines\mwp1pistol1magaz.p3d";
 		weight = 200;
 		itemSize[] = {1,2};
@@ -569,8 +569,8 @@ class CfgMagazines
 	class mwp1_pistol2_magazine: Magazine_Base
 	{
 		scope = 2;
-		displayName = "MWP1 Магазин";
-		descriptionShort = "Магазин для пистолета MWP1 первой серии. вмещает 50 патронов калибра ххх.//By Meru";
+		displayName = "MWP1 Pistol Mag - 50";
+		descriptionShort = "Magazine for the MWP1 pistol of the first series. holds 50 rounds of xxx caliber.//By Meru";
 		model = "modern_weapon_pack_1_V2\magazines\mwp1pistol2magaz.p3d";
 		weight = 200;
 		itemSize[] = {1,2};
@@ -660,8 +660,8 @@ class CfgMagazines
 	class mwp1_pistol3_magazine: Magazine_Base
 	{
 		scope = 2;
-		displayName = "MWP1 Магазин";
-		descriptionShort = "Магазин для пистолета MWP1 третьей серии. вмещает 50 патронов калибра ххх.//By Meru";
+		displayName = "MWP1-3 Pistol Mag - 50";
+		descriptionShort = "Magazine for MWP1 pistol of the third series. holds 50 rounds of xxx caliber.//By Meru";
 		model = "modern_weapon_pack_1_V2\magazines\mwp1pistol3magaz.p3d";
 		weight = 200;
 		itemSize[] = {1,2};
@@ -751,8 +751,8 @@ class CfgMagazines
 	class mwp1_shotgun3_magazine: Magazine_Base
 	{
 		scope = 2;
-		displayName = "MWP1 Магазин";
-		descriptionShort = "Магазин для дробовика MWP1 третьей серии. вмещает 30 патронов калибра ххх.//By Meru";
+		displayName = "MWP1-3 Shotgun Mag - 30";
+		descriptionShort = "Magazine for the MWP1 shotgun of the third series. holds 30 rounds of xxx caliber.//By Meru";
 		model = "modern_weapon_pack_1_V2\magazines\mwp1shotgun3magaz.p3d";
 		weight = 200;
 		itemSize[] = {1,2};
@@ -842,8 +842,8 @@ class CfgMagazines
 	class mwp1_rifle4_magazine: Magazine_Base
 	{
 		scope = 2;
-		displayName = "MWP1 Магазин";
-		descriptionShort = "Магазин для штурмовой винтовки MWP1 четвертой серии. Вмещает 120 патронов калибра ххх .//By Meru";
+		displayName = "MWP1-4 Assault Rifle Mag - 120";
+		descriptionShort = "Magazine for the MWP1 assault rifle of the fourth series. Holds 120 rounds of xxx caliber .//By Meru";
 		model = "modern_weapon_pack_1_V2\magazines\mwp1rifle4magaz.p3d";
 		weight = 200;
 		itemSize[] = {1,3};
@@ -933,8 +933,8 @@ class CfgMagazines
 	class mwp1_pistol4_magazine: Magazine_Base
 	{
 		scope = 2;
-		displayName = "MWP1 Магазин";
-		descriptionShort = "Магазин для пистолета MWP1 четвертой серии. Вмещает 50 патронов калибра ххх .//By Meru";
+		displayName = "MWP1-4 Pistol Mag - 50";
+		descriptionShort = "Magazine for the MWP1 pistol of the fourth series. Holds 50 rounds of xxx caliber .//By Meru";
 		model = "modern_weapon_pack_1_V2\magazines\mwp1pistol4magaz.p3d";
 		weight = 200;
 		itemSize[] = {1,2};
@@ -1024,8 +1024,8 @@ class CfgMagazines
 	class mwp1_shotgun4_magazine: Magazine_Base
 	{
 		scope = 2;
-		displayName = "MWP1 Магазин";
-		descriptionShort = "Магазин для Автоматического дробовика MWP1 четвертой серии. Вмещает 50 патронов калибра ххх .//By Meru";
+		displayName = "MWP1-4 Shotgun Mag - 50";
+		descriptionShort = "Magazine for the MWP1 Automatic Shotgun of the fourth series. Holds 50 rounds of xxx caliber .//By Meru";
 		model = "modern_weapon_pack_1_V2\magazines\mwp1shotgun4magaz.p3d";
 		weight = 200;
 		itemSize[] = {1,2};
@@ -1115,8 +1115,8 @@ class CfgMagazines
 	class mwp1_smg1_magazine: Magazine_Base
 	{
 		scope = 2;
-		displayName = "MWP1 Магазин";
-		descriptionShort = "Магазин для пистолета пулемета MWP1 первой серии. Вмещает 90 патронов калибра ххх .//By Meru";
+		displayName = "MWP1 SMG Mag - 90";
+		descriptionShort = "Magazine for the MWP1 submachine gun of the first series. Holds 90 rounds of xxx caliber .//By Meru";
 		model = "modern_weapon_pack_1_V2\magazines\mwp1smg1magaz.p3d";
 		weight = 200;
 		itemSize[] = {1,2};
@@ -1206,8 +1206,8 @@ class CfgMagazines
 	class mwp1_smg2_magazine: Magazine_Base
 	{
 		scope = 2;
-		displayName = "MWP1 Магазин";
-		descriptionShort = "Магазин для пистолета пулемета MWP1 второй серии. Вмещает 90 патронов калибра ххх .//By Meru";
+		displayName = "MWP1-2 SMG Mag - 90";
+		descriptionShort = "Magazine for the MWP1 submachine gun of the second series. Holds 90 rounds of xxx caliber .//By Meru";
 		model = "modern_weapon_pack_1_V2\magazines\mwp1smg2magaz.p3d";
 		weight = 200;
 		itemSize[] = {1,2};
@@ -1297,8 +1297,8 @@ class CfgMagazines
 	class mwp1_smg3_magazine: Magazine_Base
 	{
 		scope = 2;
-		displayName = "MWP1 Магазин";
-		descriptionShort = "Магазин для пистолета пулемета MWP1 третьей серии. Вмещает 90 патронов калибра ххх .//By Meru";
+		displayName = "MWP1-3 SMG Mag - 90";
+		descriptionShort = "Magazine for the MWP1 submachine gun of the third series. Holds 90 rounds of xxx caliber .//By Meru";
 		model = "modern_weapon_pack_1_V2\magazines\mwp1smg3magaz.p3d";
 		weight = 200;
 		itemSize[] = {1,2};
@@ -1388,8 +1388,8 @@ class CfgMagazines
 	class mwp1_smg4_magazine: Magazine_Base
 	{
 		scope = 2;
-		displayName = "MWP1 Магазин";
-		descriptionShort = "Магазин для пистолета пулемета MWP1 четвертой серии. Вмещает 90 патронов калибра ххх .//By Meru";
+		displayName = "MWP1-4 SMG Mag - 90";
+		descriptionShort = "Magazine for the MWP1 submachine gun of the fourth series. Holds 90 rounds of xxx caliber .//By Meru";
 		model = "modern_weapon_pack_1_V2\magazines\mwp1smg4magaz.p3d";
 		weight = 200;
 		itemSize[] = {1,2};
@@ -1479,8 +1479,8 @@ class CfgMagazines
 	class mwp1_sniperrifle2_magazine: Magazine_Base
 	{
 		scope = 2;
-		displayName = "MWP1 Магазин";
-		descriptionShort = "Магазин для снайперской винтовки MWP1 второй серии. Вмещает 30 патронов калибра ххх .//By Meru";
+		displayName = "MWP1-2 Sniper Mag - 30";
+		descriptionShort = "Magazine for the MWP1 sniper rifle of the second series. Holds 30 rounds of xxx caliber .//By Meru";
 		model = "modern_weapon_pack_1_V2\magazines\mwp1sniperrifle2magaz.p3d";
 		weight = 200;
 		itemSize[] = {1,3};
@@ -1570,8 +1570,8 @@ class CfgMagazines
 	class mwp1_sniperrifle3_magazine: Magazine_Base
 	{
 		scope = 2;
-		displayName = "MWP1 Магазин";
-		descriptionShort = "Магазин для снайперской винтовки MWP1 третьей серии. Вмещает 30 патронов калибра ххх .//By Meru";
+		displayName = "MWP1-3 Sniper Mag - 30";
+		descriptionShort = "Magazine for the MWP1 sniper rifle of the third series. Holds 30 rounds of xxx caliber .//By Meru";
 		model = "modern_weapon_pack_1_V2\magazines\mwp1sniperrifle3magaz.p3d";
 		weight = 200;
 		itemSize[] = {2,2};
@@ -1661,8 +1661,8 @@ class CfgMagazines
 	class mwp1_sniperrifle4_magazine: Magazine_Base
 	{
 		scope = 2;
-		displayName = "MWP1 Магазин";
-		descriptionShort = "Магазин для снайперской винтовки MWP1 четвертой серии. Вмещает 30 патронов калибра ххх .//By Meru";
+		displayName = "MWP1-4 Sniper Mag - 30";
+		descriptionShort = "Magazine for the MWP1 sniper rifle of the fourth series. Holds 30 xx caliber roundsх .//By Meru";
 		model = "modern_weapon_pack_1_V2\magazines\mwp1sniperrifle4magaz.p3d";
 		weight = 200;
 		itemSize[] = {2,2};
@@ -1752,8 +1752,8 @@ class CfgMagazines
 	class mwp1_grenadelauncher_magazine: Magazine_Base
 	{
 		scope = 2;
-		displayName = "MWP1 Магазин";
-		descriptionShort = "Магазин для ракетомета MWP1 первой серии. Вмещает 10 патронов калибра ххх .//By Meru";
+		displayName = "MWP1 Rocket Launcher Mag - 10";
+		descriptionShort = "Magazine for the MWP1 rocket launcher of the first series. Holds 10 rounds of xxx caliber .//By Meru";
 		model = "modern_weapon_pack_1_V2\magazines\mwp1grenadelaunchermagaz.p3d";
 		weight = 200;
 		itemSize[] = {3,3};
@@ -1843,8 +1843,8 @@ class CfgMagazines
 	class mwp1_rocketlauncherlauncher_magazine: Magazine_Base
 	{
 		scope = 2;
-		displayName = "MWP1 Магазин";
-		descriptionShort = "Магазин для ракетомета MWP1 второй серии. Вмещает 50 ракет ТЭТ.//By Meru";
+		displayName = "MWP1-2 Rocket Launcher Mag - 50";
+		descriptionShort = "Magazine for the MWP1 rocket launcher of the second series. Holds 50 TET missiles.//By Meru";
 		model = "modern_weapon_pack_1_V2\magazines\mwp1grenadelaunchermagaz2.p3d";
 		weight = 200;
 		itemSize[] = {4,3};
@@ -1934,8 +1934,8 @@ class CfgMagazines
 	class mwp1_minigun_1_magazine: Magazine_Base
 	{
 		scope = 2;
-		displayName = "MWP1 Магазин";
-		descriptionShort = "Магазин для Пистолету пулемета миниган MWP1 первой серии. Вмещает 5000 патронов ТЭТ.//By Meru";
+		displayName = "MWP1 SMG Mag - 5000";
+		descriptionShort = "Magazine for the minigun MWP1 submachine gun of the first series. Holds 5000 TET rounds.//By Meru";
 		model = "modern_weapon_pack_1_V2\magazines\mwp1minigun2magaz.p3d";
 		weight = 200;
 		itemSize[] = {4,3};
@@ -2025,8 +2025,8 @@ class CfgMagazines
 	class mwp1_minigun_2_magazine: Magazine_Base
 	{
 		scope = 2;
-		displayName = "MWP1 Магазин";
-		descriptionShort = "Магазин для Пистолету пулемета миниган MWP1 второй серии. Вмещает 7000 патронов ТЭТ.//By Meru";
+		displayName = "MWP1-2 Minigun Mag - 7000";
+		descriptionShort = "Magazine for the minigun MWP1 submachine gun of the second series. Holds 7000 TET rounds.//By Meru";
 		model = "modern_weapon_pack_1_V2\magazines\mwp1minigun2magaz.p3d";
 		weight = 200;
 		itemSize[] = {4,4};
